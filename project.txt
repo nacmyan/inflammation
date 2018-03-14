@@ -8,4 +8,11 @@ Version control skills will also be useful.
 This is newly added for team work.
 
 I am going to add some random text. I hope that this doesn't cause problems
->>>>>>> dda71ceae3efb271006d096ef44a3914eb0d86f5
+
+x
+x
+x
+x
+x
+x
+x
