@@ -1,1 +1,3 @@
 Some initial notes onthe data analysis to identify how inflammation changes over time after surfery.
+Jane is a Data Scientist and Samitis a statistician. We will need to determine who is reponsible for what in this project.
+
