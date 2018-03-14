@@ -3,3 +3,5 @@ Jane is a Data Scientist and Samitis a statistician. We will need to determine w
 
 
 Version control skills will also be useful.
+
+This is newly added for team work.
